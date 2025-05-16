@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicoly-dos-santos-dias-58a6b132a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
-<a href= "https://www.instagram.com/n1c0ly__/?next=%2F" target="blank"><img align="center" src=<i class="fi fi-brands-instagram"
+<a href= "https://www.instagram.com/n1c0ly__/?next=%2F" target="blank"><img align="center" src=""fi fi-brands-instagram"
 alt="profile instagram" height="30" width="40" /></a>
 </p>
 
