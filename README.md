@@ -1,4 +1,4 @@
-<img width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F74239093832458767%2F&psig=AOvVaw087Km50WJRezVH39VEx5AG&ust=1753871850394000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDk2vbv4Y4DFQAAAAAdAAAAABAK"/>
+<img width=100% src=""/>
 
 <br/>
 
