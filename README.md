@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&count_private=true&hide_border=true&title_color=E0A943icon_color=E0A943text_color=2d2c26&bg_color=C9D6EA" alt="n1c0ly github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&count_private=true&hide_border=true&title_color=E0A943icon_color=E0A943text_color=2d2c26&bg_color=EEE5E9" alt="n1c0ly github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0ly&layout=compact&hide_border=true&title_color=E0A943text_color=2d2c26&bg_color=EEE5E9" />
   <img align="center">
 </div>
@@ -31,4 +31,4 @@ alt="profile instagram" height="30" width="40" /></a>
           </a>
 </p>
 
-<img width=100% src="https://mega.ibxk.com.br/2013/8/materias/86718188879427.gif?ims=fit-in/800x500"/>
+<img width=100% src="https://giffiles.alphacoders.com/130/13054.gif"/>
