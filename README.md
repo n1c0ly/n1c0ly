@@ -1,4 +1,4 @@
-<img width=100% src=""/>
+<img width=100% src="https://i.pinimg.com/originals/93/58/6d/93586d6dd6260965b64791d13e675918.gif"/>
 
 <br/>
 
@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&count_private=true&hide_border=true&title_color=E0A943icon_color=E0A943text_color=2d2c26&bg_color=E1437F" alt="ninica0 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0ly&layout=compact&hide_border=true&title_color=E0A943text_color=2d2c26&bg_color=E1437F" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&count_private=true&hide_border=true&title_color=E0A943icon_color=E0A943text_color=2d2c26&bg_color=C9D6EA" alt="n1c0ly github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0ly&layout=compact&hide_border=true&title_color=E0A943text_color=2d2c26&bg_color=EEE5E9" />
   <img align="center">
 </div>
 
