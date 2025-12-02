@@ -31,4 +31,4 @@ alt="profile instagram" height="30" width="40" /></a>
           </a>
 </p>
 
-<img width=100% src="https://giffiles.alphacoders.com/130/13054.gif"/>
+
