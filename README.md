@@ -6,7 +6,7 @@
 </div>
 
 ---
----
+
 
 ### 🌘
 **Idade:** 19 anos
@@ -28,7 +28,7 @@
 </div>
 
 
----
+
 ---
 
 
@@ -51,5 +51,5 @@
   <img src="https://raw.githubusercontent.com/n1c0ly/n1c0ly/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
----
+
 
