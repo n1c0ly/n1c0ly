@@ -41,9 +41,8 @@
 
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/n1c0ly/n1c0ly/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
