@@ -33,8 +33,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&count_private=true&hide_border=true&title_color=f7e0ae&icon_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" alt="n1c0ly github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0ly&layout=compact&hide_border=true&title_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=srjuninn&show_icons=true&count_private=true&hide_border=true&title_color=258eb9&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ryan Silva github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=srjuninn&layout=compact&hide_border=true&title_color=258eb9&text_color=258eb9&bg_color=0d1117" />
   <img align="center"<img src="https://github-readme-streak-stats.herokuapp.com?user=n1c0ly&theme=blood" alt="GitHub Streak"
 </div>
 ---
