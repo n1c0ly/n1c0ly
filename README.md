@@ -32,17 +32,11 @@
 ---
 
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170px" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0ly&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" height="170px" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&count_private=true&hide_border=true&title_color=f7e0ae&icon_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" alt="n1c0ly github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0ly&layout=compact&hide_border=true&title_color=f7e0ae&text_color=2d2c26&bg_color=fa748f" />
+  <img align="center"<img src="https://github-readme-streak-stats.herokuapp.com?user=n1c0ly&theme=blood" alt="GitHub Streak"
+</div>
 ---
 
 
