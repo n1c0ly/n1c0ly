@@ -1,33 +1,45 @@
-<img width=100% src="https://i.pinimg.com/originals/93/58/6d/93586d6dd6260965b64791d13e675918.gif"/>
+# Olá, eu sou a Nicoly! 👋
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EADFDE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Nicoly+Santos;I'm+19+years+old;I´m+from+Brazil,+SP;Welcome!+:%29)](https://git.io/typing-svg)
-
-<br/>
-
-<div align="center">  
-  <img width="49%" height="195px" src="./assets/stats.svg" alt="n1c0ly github stats" /> 
-  <img width="41%" height="195px" src="./assets/top-langs.svg" />
-  <img align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicGZicGZicGZicGZicGZicGZicGZicGZicGZicGZicGZicGZicGZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/olp7SfcZP5z7W/giphy.gif" width="300" alt="Frank Donnie Darko">
+  <p><i>"Why are you wearing that stupid bunny suit?" - "Why are you wearing that stupid man suit?"</i></p>
 </div>
 
-<br/>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nicoly-dos-santos-dias-58a6b132a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/n1c0ly__/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="profile instagram" height="30" width="40" /></a>
-</p>
+### 🌙 Sobre Mim
+- 🌌 **Idade:** 19 anos
+- 🎓 **Estudante:** Desenvolvimento de Sistemas
+- 💻 **Foco:** Criando soluções com foco em performance e design.
+- 💬 **Interesses:** Cinema, ficção científica e descobrir por que o tempo insiste em seguir em frente.
 
-<br/>
+### 🛠️ Toolbox
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Github" width="40" height="40"  /> </a>
-<a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-          </a>
-</p>
+---
 
+### 📊 Estatísticas & Linguagens
+Aqui está o que eu ando construindo:
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0ly&layout=compact&langs_count=7&theme=dark&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Snake Game (Commit Eater)
+Veja a cobra devorando meu histórico de contribuições:
+
+![snake gif](https://github.com/n1c0ly/n1c0ly/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n1c0ly&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
+</div>
