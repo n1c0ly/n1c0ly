@@ -10,7 +10,7 @@
 
 
 ### 🌘
-**Idade:** 19 anos
+**Idade:** 20 anos
 
 **Estudante:** Desenvolvimento de Sistemas
 
